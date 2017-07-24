@@ -1,0 +1,17 @@
+.form {
+    width: 80%;
+    padding-left:20%
+}
+
+.table {
+    background-color: #e0e0e0
+}
+
+.ng-invalid {
+    border: 1px solid red;
+}
+
+.warn{
+    padding-left: 20%;
+    color: red
+}
