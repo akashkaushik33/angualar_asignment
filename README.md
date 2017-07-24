@@ -1,3 +1,8 @@
+Please install node modules by typing npm install.
+The email field uses a regular expression for validation,
+so type in the correct format . Also all of the fields are mandatory for activating the submit button.
+
+
 # Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
